@@ -53,7 +53,7 @@ const Chatbot = () => {
   };
 
   return (
-    <div className="flex justify-center items-center bg-gradient-to-tl from-blue-950 via-transparent to-red-950 dark:bg-black p-4">
+    <div className="h-screen flex justify-center items-center bg-gradient-to-tl from-blue-950 via-transparent to-red-950 dark:bg-black p-4">
       <Card className="w-full max-w-6xl h-[555px] shadow-2xl rounded-2xl dark:bg-gray-900 dark:text-white">
         <CardContent className="flex flex-col space-y-4 p-4 h-full">
           <div className="flex items-center space-x-2 border-b pb-2">
