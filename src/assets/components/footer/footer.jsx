@@ -17,7 +17,7 @@ const Footer = () => {
     <footer className="bg-white dark:bg-black py-8 text-black dark:text-white relative">
       {/* Gradient en arrière-plan */}
       <div
-        className="absolute inset-0 bg-gradient-to-tl from-blue-900 via-transparent to-red-900 opacity-50"
+        className="absolute inset-0 bg-gradient-to-tl from-blue-950 via-transparent to-red-950 opacity-50"
         aria-hidden="true"></div>
 
       <div className="container mx-auto px-4 relative">
